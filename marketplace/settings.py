@@ -42,7 +42,8 @@ INSTALLED_APPS = [
 
     #custom
     'core',
-    'item',    
+    'item', 
+    'dashboard',   
 ]
 
 MIDDLEWARE = [
