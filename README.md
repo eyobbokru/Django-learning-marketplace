@@ -9,7 +9,7 @@ Welcome to the Django Online Marketplace project! This tutorial is designed to h
 
 ## Getting Started
 
-1. **Clone the repository to your local machine:**
+1. **Clone the repository to your local machine:***
     ```bash
     git clone https://github.com/your-username/django-online-marketplace.git
     ```
