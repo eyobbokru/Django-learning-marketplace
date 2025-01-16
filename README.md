@@ -1,7 +1,6 @@
 # Django Online Marketplace
 
-Welcome to the Django Online Marketplace project! This tutorial is designed to help beginners learn Django by building a simple online marketplace. Follow the steps below to set up and run the project on your local machine. please follow the steps..
-
+Welcome to the Django Online Marketplace project! This tutorial is designed to help beginners learn Django by building a simple online marketplace. Follow the steps below to set up and run the project on your local machine. please follow the steps.
 ## Prerequisites 
 
 - Python 3.x installed on your machine.
